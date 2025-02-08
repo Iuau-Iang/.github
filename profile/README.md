@@ -18,4 +18,4 @@ They also have other repositories that host satellite materials:
 
 If it isn't clear already, this is not the official organization. You may be looking for the actual [luau-lang](https://github.com/luau-lang) organization.
 
-Best regards, app group // *anti phishing protection*
+Best regards, NT Software Team <img src="https://github.com/NT-Software/.github/blob/main/profile/icon.png?raw=true" width="32px" align="center"/>
